@@ -1,2 +1,3 @@
-# goxml2json
-XML to JSON Go Library
+# XML to JSON Go Library
+
+Converts XML to JSON.
